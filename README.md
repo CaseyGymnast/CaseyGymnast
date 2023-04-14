@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @CaseyGymnast
-- 🌱 I’m currently working on Robotics and Artificial Intelligence Projects
-- 📫 How to reach me - C22Cason.Couch@usafa.edu
+- 🌱 I’m currently working on Robotics at Georgia Tech
+- 📫 How to reach me - ccouch31@gatech.edu
